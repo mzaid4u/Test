@@ -1,4 +1,3 @@
 Hellow World
 Wonder Land
-Jurasic Park 
-changes in local for smart git demo
+Jurasic Park
